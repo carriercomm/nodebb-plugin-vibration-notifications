@@ -1,0 +1,32 @@
+{
+  "name": "nodebb-plugin-vibration-notifications",
+  "version": "0.0.1",
+  "description": "NodeBB Vibration Notifications for Mobile",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psychobunny/nodebb-plugin-vibration-notifications"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "notifications",
+    "mobile",
+    "alerts",
+    "vibration"
+  ],
+  "author": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-plugin-vibration-notifications/issues"
+  },
+  "readmeFilename": "README.md",
+  "_id": "nodebb-plugin-vibration-notifications@0.0.1",
+  "_from": "nodebb-plugin-vibration-notifications@~0.0.1"
+}

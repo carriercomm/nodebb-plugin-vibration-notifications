@@ -1,0 +1,9 @@
+{
+	"id": "nodebb-plugin-vibration-notifications",
+	"name": "NodeBB Vibration Notifications for Mobile",
+	"description": "Uses the HTML5 Notifications API to display desktop alerts upon new incoming notifications.",
+	"url": "https://github.com/psychobunny/nodebb-plugin-vibration-notifications",
+	"scripts": [
+        "public/lib/main.js"
+    ]
+}
