@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-vibration-notifications",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "NodeBB Vibration Notifications for Mobile",
   "main": "library.js",
   "scripts": {
